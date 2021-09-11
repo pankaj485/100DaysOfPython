@@ -1,0 +1,58 @@
+--pep8 format of python
+--odd/even number detector 
+--advanced bmi calculator
+--leap year check
+--importance of flowchart 
+--love calculator
+
+    =======================================
+	DAY2 : CONTROL FLOW AND LOGICAL OPERATORS 
+	=======================================
+=> going to build treasure island game
+
+
+    CONTROL FLOW WITH IF/ELSE AND CONDITIONAL OPERATORS 
+    ===================================================
+=> if/else statemetns are similar concept to javaScript with different writing method 
+=> unlike JS, curly braces aren't used for block of code 
+    e.g 
+        if condition:
+            print("hello from if block")
+        else:
+            print("hello from else")
+
+=> comparasion operators: >, <, >=, <=, ==, != 
+=> modulo operator: %
+
+
+    NESTED IF STATEMENTS AND ELIF STATEMENTS AND OTHER 
+    ==================================================
+=> concept is preety same as javaScript 
+=> else if in js is equivalent to elif in python
+=> multiple if statements in succession
+=> understanding the use of if blocks with acc to indentation (python pizza projects lec:33)
+=> logical operators: and, or, not
+=> count() and lower() functions
+
+
+    MAIN PROJECT: TRESURE GAME 
+    ==========================
+=> ASCII Art In Python (just google the art you want xd )
+=> escaping the letter with backslash "\"
+=> Documentation strings: '''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,93 @@
+
+#thonny ide 
+
+
+    =======================================
+	DAY1 : BEGINNER, WORKING WITH VARIABLES 
+	=======================================
+
+=> print(" ") : prints whatever is passed 
+
+=>street = input("What's name of the city you grew up in?\n")
+	street is the variable 
+	input is prompt to accept values 
+	\n is for new line 
+
+    to use double braces inside of any function like print() isn't a good apporach. Instead we can use single quoets for that
+    e.g
+    print("print('hello world')")
+
+
+    STRING MANIPULATION AND CODE INTELLEGENCE 
+    =========================================
+=> use of \n 
+=> string concatenation using "+"
+
+
+    PYTHON INPUT FUNCTION
+    =====================
+=> prompt used to get input from user 
+
+
+    PYTHON VARIABLES    
+    =====================
+=> variables in python are declared as : var_name = 
+ 
+
+    ======================================
+	DAY2 : DATA TYPES AND DATA CONVERSIONS 
+	======================================
+
+    DATA TYPES 
+    ==========
+=> subscript concept 
+    e.g printing individual characters from string : 
+        print("Hello"[0]) => H 
+        print("Hello"[4]) => o
+=> using underscore with integers to visualize as , e.g 1_000
+=> str, int, float, boolean are python data types 
+=> type() returns the data type of the data 
+=> typecasting is the concept to chagne one data type to another 
+
+    MATHEMATICAL OPERAIONS
+    ======================
+=> /, *, -, + are basic mathematical operators in python 
+=> ** is exponent i.e (2**3 : 8)
+=> follows pemdas method with the operations
+
+    NUMBERS MANIPULATION
+    ======================
+=> round(8/3,4) function to round the num , fist arg: passed num & second arg:num of decimal to count  
+=> double forward slash division returns integer value i.e 8//3: 2 
+=> fstring: like using tilde to manipulate string in javascirpt
+    e.g 
+        score = 0 
+        height = 1.8 
+        isWinning = True 
+        print(f"your score is {score}, your height is {height}, you are winning is {winning}")  
+        #here f is used before " to ensure that we are using the fstring 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

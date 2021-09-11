@@ -1,0 +1,135 @@
+
+    =======================================================================
+	DAY8 : DICTIONARIES, NESTING AND SECRET AUCTION + FUNCTIONS WITH OUTPUT
+	=======================================================================
+
+=> going to build
+    treasure secret auction game 
+    calculator
+
+
+    DICTIONARIES
+    ============
+
+=> is a key value pair seprated by colon inside a pair of curly braces. kinda like object in js
+
+=> dictionaries can be initialized as,
+        dictionary_name = {} 
+
+=> in each dictionary, each key is separed by comma 
+
+=> key,value both has to be wrapped inside of double quotes
+    e.g
+        example_dictionary = {
+            "name":"pankaj",
+            "address":"dhading"
+        }
+
+=> to access the value of particluar key,
+    dictionary_name["key"]
+
+=> to add items to a dictionary, 
+        dictionary_name["key"] = "value"
+
+=> to create empty dictionary or to wipe existing dictionary
+    dictionary_name = {}
+
+=> to edit existing item of a dictionary
+    dictionary_name["existing_key"] = "new_value"
+
+=> loop through a dictionary,
+    for loop can be used 
+    
+
+   NETSING LISTS AND  DICTIONARIES
+   ===============================
+
+=> nesting can be done with list and list, dictionary and dictionary
+    e.g 
+        travel_log={
+            "France":{"cities_visited":["paris","Dijon","lille"]},
+            "Nepal":{"pokhara","kathamandu","chitwan"}
+        }
+
+=> there can be dictionary in a list, dictionary in a dictionary and could be so on 
+    
+
+   FUNCTIONS WITH OUTPUT
+   =====================
+=> is the way to allow output at the end of the function
+
+=> concept of return 
+
+=> one function can have multiple return statements with conditional statements 
+
+=> one function can have empty return statement as well
+
+=> why return is used ?
+    
+=> witin docstrings (3 doublequoets/quoets) will allow us to write docuemntation of the function
+    e.g
+        def print_name:
+            """ this function prints the name """
+ 
+
+    CALCULATOR PROJECT 
+    ==================
+
+=> recurison concept 
+
+
+    PROGRAMS 
+    ========
+        blindAuction.py  calculatorV2.py   numOfDaysInMonths.py  travel_log.py
+        calculatorV1.py  nameFormatter.py  scoreToGrade.py
+
+
+    SUMMARY
+    =======
+Day8 of  #100DaysOfCode 
+
+I learned 
+-dictionary data structure and methods
+-return statement in function
+-recursion
+
+Built
+-calculator utilizing dictionary and recursion
+-score to grade convertor
+
+my LinkedIn profile: linkedin.com/in/pankaj-thapaliya/
+
+#Python #learning #100DaysOfPython  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

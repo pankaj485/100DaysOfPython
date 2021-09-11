@@ -1,0 +1,96 @@
+
+
+
+
+    ==========================================
+	DAY7: FUNCTION PARAMETER AND CAESAR CIPHER 
+	==========================================
+=> 
+
+
+    FUNCTIONS WITH INPUTS 
+    =====================
+=> functions that allows inputs 
+=> parameters vs arguments 
+    parameters: used in function definations. It's name of the data being passed 
+    arguments: used while calling the functions. It's actual data being passed 
+
+
+    POSITIONAL VS KEYWOARD ARGUMENTS 
+    ================================
+=> functions with more than one parameters
+=> Python functions can contain two types of arguments: 
+    positional arguments and keyword arguments. 
+
+=> Positional arguments must be included in the correct order.
+    e.g
+        def greet_with_position(name,location):
+          print(f"hello {name}")
+          print(f"what is it like in {location}?")
+
+        greet_with_position("pankaj","Nepal") 
+
+=> Keyword arguments are included with a keyword and equals sign.
+    e.g
+        def greet_with_keyword(name,location):
+          print(f"hello {name}")
+          print(f"what is it like in {location}?")
+
+        greet_with_keyword(location="france", name="robin")
+
+=> Caesar Cipher in Cryptography 
+    https://www.geeksforgeeks.org/caesar-cipher-in-cryptography/
+
+
+    PROGRAMS BUILT
+    ==============
+
+    areaCoverageCalculator.py  caesarV3.py               primeNumChecker.py
+    caesarV1.py                caesarV4.py
+    caesarV2.py                functionArgumetsTypes.py
+
+    SUMMARY
+    =======
+
+    Day7 of  #100DaysOfCode 
+
+    Today I learned 
+    -functions, parameters vs arguments
+    -positional arguments and keyword arguments
+
+    Built programs for,
+    -Caesar Cipher encryption
+    -prime number checker
+     
+    connect me on LinkedIn: linkedin.com/in/pankaj-thapaliya/
+
+    #Python #learning #100DaysOfPython 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

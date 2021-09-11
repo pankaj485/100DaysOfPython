@@ -1,0 +1,57 @@
+
+
+    	=======================================
+	DAY10: ATTRIBUTES AND METHODS 
+	=======================================
+=> 
+
+
+    CLASS AND OBJECTS 
+    ==================
+=> class and objects are model real life objects 
+=> class is blueprint for object 
+=> attributes: vairable of the model attached to particular object 
+=> methods: block of code doing particular job (concept of functions)
+
+    CRETING OBJECTS AND ACCESSING THEIR ATTRIBUTES AND METHODS 
+    ==========================================================
+=> pascal casing is used with car. i.e first letter is capitalized 
+=> e.g: car = CarBlueprint() (here car is object and CarBlueprint is class)
+=> object holds the data individually 
+=> object methods: are functions tied with it. we use methods by using dot method 
+
+	PACKAGE VS MODULE 
+	=================
+=> importing packages into the pycharm 
+=> https://pypi.org/
+=> use of preetytable 
+=> changing object attributes 
+
+	SUMMARY
+	=======	
+
+
+Day12 of  #100DaysOfCode 
+
+I learned 
+-OOPS in Python
+-packages and modules 
+
+Built
+-coffee machine project using oops approach 
+ps: class files were provided by the instructor 
+
+my LinkedIn profile: linkedin.com/in/pankaj-thapaliya/
+
+#Python #learning #100DaysOfPython  
+
+
+
+
+
+
+
+
+
+
+

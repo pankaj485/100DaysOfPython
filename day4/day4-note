@@ -1,0 +1,83 @@
+-- come back for the robo escape problem 
+
+    =======================================
+	DAY6: FUNCTIONS AND KAREL 
+	=======================================
+=> going to build karel bot
+
+
+    DEFINING AND CALLING PYTHON FUNCTIONS 
+    =====================================
+=> function can be defined as, 
+    def function_name(inputs): 
+        block of codes inside indentation
+
+=> function can be called as
+    function_name(inputs)
+
+=> using function with loops        
+
+
+    INDENTATION 
+    ===========
+=> each indentaion defines the block of code
+=> use case of indentation with nested loops
+=> ways to create indentation 
+    -spaces 
+    -tabs  
+
+
+    WHILE LOOPS 
+    ===========
+=> loop keeps on running untill given condition is true, is infinite loop
+=> syntax, 
+    while(condition):
+        block of code to execute
+
+=> loop only exists when the condition will be false 
+=> when to use for loop and when to use while loop
+    when you don't care about range and items, you are concerned to result only while loop is used 
+
+
+
+    PROGRAMS CREATED
+    ================
+
+    reeborgsWorldSquareV1.py  reeborgsWorldSquareV3.py
+
+    reeborgsWorldSquareV2.py  reeborgsWorldSquareV4.py
+
+
+
+    SUMMARY
+    =======
+
+    Day4 of  #100DaysOfCode 
+
+    Today I learnt 
+    -functions defination and calling
+    -indentation rules
+    -while loop
+
+    Built programs for,
+    -various Reeborgs World problems with loops 
+
+    Remarks:
+    Eventhough i grasped while loop concepts, maze logic still seems complex.    
+     
+    linkedIn: linkedin.com/in/pankaj-thapaliya/
+    #Python #learning #100DaysOfPython 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

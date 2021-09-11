@@ -1,0 +1,55 @@
+
+    =======================================
+	DAY8 : SCOPES 
+	=======================================
+=> 
+
+    SCOPE 
+    =====
+=> concept of localscope and global scope
+
+=> localscope: when you craete a new function/variable inside of function/block then it's accessible for that function/block of code only
+
+=> globalscope: when you crete at the top level i.e not within another function/block it's accessible is valid in all other scopes 
+
+
+    FIND AND FIX BUGS
+    =================
+
+=> how to find the bugs 
+    run various conditions
+    try reproducing bugs
+
+=> debugged programs for 
+    odd even checker
+    leap year checker
+    fizz buzz challange 
+ 
+    
+    CODE FILES 
+    ==========
+        numberGuess.py
+
+
+    SUMMARY
+    =======
+
+Day9 of  #100DaysOfCode 
+
+I learned 
+-local scope and global scope
+-to find and fix the bugs
+
+Built
+-number guessing game
+-debugged few code files provided as assignment 
+
+my LinkedIn profile: linkedin.com/in/pankaj-thapaliya/
+
+#Python #learning #100DaysOfPython
+
+
+
+
+
+

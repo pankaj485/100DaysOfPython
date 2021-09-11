@@ -1,0 +1,108 @@
+
+#play around with the code until starts doing what you want it to do   
+
+
+    =======================================
+	DAY3: RANDOMISATION AND PYTHON LISTS  
+	=======================================
+=> used in unpredictivite natures like games 
+
+
+    RANDOM MODULE  
+    =============
+
+=> sudo random numebr generators 
+=> https://www.askpython.com/python-modules/python-random-module-generate-random-numbers-sequences
+=> random.randrange(i, j), random.randint(100, 200), random.random(), random.choice()
+    e.g 
+print(random.randrange(1, 5)
+print(random.randint(100, 200))
+
+
+    PYTHON LISTS
+    ============
+=> is a data structre, is like array in JS
+    e.g 
+        fruits_list = ["apple", "banana", "mango"]
+=> concept of index, offset and addpending items to list 
+=> first index 0 because it has 0 offset 
+=> to change the value of item at particular index is by 
+        list[index] = "new_value"
+=> list.append("value"): adds new item to end of list 
+=> list.extend("value1", "value2",..): adds new items to the list
+
+    INDEX ERROS AND NESTED LISTS 
+    ============================
+=> indexError: happens when one tries to access the element outside of range 
+        i.e if total max index is 10 and you try to get 11th index item
+=> nested lists: when one list contains multiple lists within itself 
+    e.g 
+        boys_list = ["ram", "shyam", "hari"]
+        girls_list = ["rita", "sita", "gita"]
+        nested_list = [boys_list, girls_list] 
+            i.e: [["ram", "shyam", "hari"],["rita", "sita", "gita"]]
+
+    LOOPS IN PYTHON 
+    ============================
+
+=> for in loop to access the list elements
+    e.g
+        lists = ["item1", "item2", "item3"]
+        for item in lists
+            print(item)
+=> for in loop  with range 
+    e.g
+        for n in range(0, 10, steps))
+        # steps is used as diff between consecutive nums
+=> sum(), max(), min() 
+
+    PASSWORD GENERATOR 
+    ==================
+
+=> random module in python is preety powerful 
+=> random.sample(), random.choice(), random.shuffle()
+=> converting array into string using 
+    modules
+    if statements 
+
+
+    SUMMARY
+    =======
+=> programs built
+    averageHeight.py  fizzBuzz.py      passwordGenerator.py  toss.py
+    evenNumSum.py     highestScore.py  scissorPaperRock.py
+=> social summay 
+    Day3 of  #100DaysOfCode 
+
+    Today I learnt 
+    -random module and it's methods
+    -list data structre
+    -for loop
+
+    Built programs for,
+    -average height calculator
+    -password generator
+    -scissor paper rock
+
+    linkedIn: linkedin.com/in/pankaj-thapaliya/
+    #Python #learning #100DaysOfPython 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
